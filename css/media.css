@@ -94,8 +94,6 @@
     z-index: 1;
   }
 
-  .header__main-content {}
-
   .main-logo {
     margin-top: -7px;
     width: 187px;
@@ -325,8 +323,6 @@
 
   /* contacts */
 
-  .contacts {}
-
   .contacts__container {
     padding-bottom: 38px;
   }
@@ -403,8 +399,6 @@
     flex-direction: row;
     justify-content: space-between;
   }
-
-  .footer__container {}
 
   .footer__link {
     display: inline-block;
@@ -568,8 +562,6 @@
 
   /* contacts */
 
-  .contacts {}
-
   .contacts__form {
     flex-direction: row;
     gap: 20px;
@@ -666,8 +658,6 @@
     background-color: var(--color-black-5);
   }
 
-  .serch {}
-
   .search__box {
     position: static;
     width: 251px;
@@ -700,8 +690,6 @@
   .search__close-button {
     display: none;
   }
-
-  .search__form {}
 
 
   .header__subnav {
