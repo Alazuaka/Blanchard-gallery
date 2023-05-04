@@ -1367,7 +1367,9 @@ body {
   display: inline-block;
   position: relative;
   width: 1em;
+  max-width: 1em;
   height: 1em;
+  max-height: 1em;
   margin-bottom: -0.1em;
 
 }

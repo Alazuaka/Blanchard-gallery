@@ -204,12 +204,13 @@
 
   .modal__content {
     height: 594px;
+    max-height: 90dvh ;
     width: 668px;
     flex-direction: row;
   }
 
   .modal__img {
-    height: auto;
+    height: 100%;
     width: 301px;
   }
 
