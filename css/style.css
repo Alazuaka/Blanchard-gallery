@@ -578,6 +578,7 @@ body {
 
 
 .hero {
+  background-color: var(--swiper-theme-color);
   color: var(--color-white);
   animation: 15s cubic-bezier(0.63, 0, 0.37, 1) 0s infinite alternate hero-back;
   background-repeat: no-repeat;
