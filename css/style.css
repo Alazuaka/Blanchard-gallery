@@ -1677,13 +1677,13 @@ body {
   opacity: 0.5;
 }
 
-.contacts__link:active .circle__img {
+.contacts__link:active .circle-img {
   border-radius: 50%;
   outline: 2px solid var(--color-2);
   outline-offset: -1px;
 }
 
-.circle__img {
+.circle-img {
   max-width: 100%;
 }
 
