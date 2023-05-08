@@ -80,7 +80,6 @@
     padding-bottom: 35px;
   }
 
-
   /* header */
 
   .header__top {
@@ -242,7 +241,6 @@
     font-size: 24px;
   }
 
-
   .ac .accordion__button {
     padding-top: 32px;
     padding-bottom: 33px;
@@ -302,7 +300,6 @@
     padding-bottom: 40px;
   }
 
-
   .event__pagination.swiper-pagination {
     display: none;
   }
@@ -316,7 +313,6 @@
   .projects__descr {
     margin-bottom: 25px;
   }
-
 
   /* partners */
 
@@ -352,7 +348,6 @@
   }
 
   .contacts__form {
-
     gap: 10px;
     margin-bottom: 31px;
   }
@@ -413,9 +408,6 @@
   .footer__item {
     max-width: 60px;
   }
-
-
-
 }
 
 @media (min-width: 1024px) {
@@ -442,7 +434,6 @@
   .search__icon-close {
     width: 23px;
   }
-
 
   .gallery__container {
     flex-direction: row;
@@ -493,9 +484,6 @@
     padding-top: 122px;
   }
 
-
-
-
   /* catalog */
 
   .catalog__bottom {
@@ -523,8 +511,6 @@
     gap: 60px;
   }
 
-
-
   .artist__image {
     margin-bottom: 28px;
     width: 100%;
@@ -546,7 +532,6 @@
 
   /* projects */
 
-
   .projects__descr {
     margin-bottom: 15px;
   }
@@ -559,7 +544,6 @@
     min-width: 384px;
     min-height: 128px;
   }
-
 
   /* contacts */
 
@@ -581,14 +565,11 @@
     min-width: 343px;
 
   }
-
 }
 
 
 
 @media (min-width: 1200px) {
-
-
 
   /* .header */
 
@@ -636,7 +617,6 @@
     flex-direction: row;
     gap: 62px;
   }
-
 
   .header__entry-button {
     margin-right: -9px;
@@ -688,7 +668,6 @@
   .search__close-button {
     display: none;
   }
-
 
   .header__subnav {
     display: flex;
@@ -984,7 +963,6 @@
     font-size: 18px;
   }
 
-
   .event__button-prev {
     left: calc(var(--gap-x) - 25px);
   }
@@ -1052,7 +1030,6 @@
     height: 700px;
   }
 
-
   /* footer */
 
   .footer__list {
@@ -1062,7 +1039,6 @@
   .footer__item {
     width: 50px;
   }
-
 
   .background-mini-1 {
     background-image: url(../img/bacck-mini_1.jpg);
@@ -1155,9 +1131,6 @@
     --partners-slider-gap: 45px;
   }
 
-  /* headeer */
-
-
   /* artist  */
   .descr__list {
     padding: 25px 0;
@@ -1166,8 +1139,6 @@
     margin-right: 0px;
     gap: 60px;
   }
-
-
 
   /* .contacts */
 
@@ -1200,6 +1171,4 @@
   .contacts__messenger {
     margin-top: -13px;
   }
-
-
 }
