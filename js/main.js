@@ -214,8 +214,8 @@
     speed: 400,
     spaceBetween: 100,
     navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
+      nextEl: '.partner__button-next',
+      prevEl: '.partner__button-prev',
     },
     breakpoints: {
       500: {
